@@ -1,0 +1,60 @@
+# Descriptions
+title: Kevin Ricks
+author:
+  name: Department of Ecology and Evolutionary Biology University of Toronto
+
+
+# show_excerpts: true # set to true to show excerpts on the homepage
+
+minima:
+  skin: classic
+  social_links:
+    - { platform: google_scholar,       user_url: "https://scholar.google.com/citations?		user=9KlgDVMAAAAJ&hl=en" }    
+    - { platform: x,       user_url: "https://x.com/kevindricks" }
+    - { platform: github,          user_url: "kevinricks.github.io" }
+
+
+url: http://http://kevinricks.github.io/
+# Build settings
+theme: minima
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+# File excludes (excldes following by default)
+#exclude:
+#- README.md
+#- Gemfile
+#- Gemfile.lock
+
+# Header nav
+
+
+# Theme-specific settings
+
+# If you want to link only specific pages in your header, use this and add the path to the pages
+# in order as they should show up.
+
+relative_links:
+  enabled: true
+  collections: true
+header_pages:
+  - index.md
+  - research.md
+  - pubs.md
+  - photos.md
+  - contact.md
+
+
+
+#- title: Field
+#- title: Field
+#  url: /field/
+
+# Set to `true` to show excerpts on the homepage.
+#show_excerpts: false
+
+
+
+# Minima specific settings, which are only available from Minima 3.0 onward.
+
