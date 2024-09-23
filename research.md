@@ -15,9 +15,9 @@ With significant microbial impacts on plant fitness and phenotype, one focus of 
 
 <div class="row">
  <div class="column">
-  <img src="/images/saline2.jpg" style="width:55%">
-  <img src="/images/canyon1.jpg" style="width:22%">
-  <img src="/images/canyon2.jpg" style="width:22%">
+  <img src="/images/saline2.jpg" style="width:54%">
+  <img src="/images/canyon1.jpg" style="width:21.5%">
+  <img src="/images/canyon2.jpg" style="width:21.5%">
   <p style="font-size:10pt;color:DimGrey"> Collection sites for <i>B. tectorum</i> across Utah (Left) Salt flats near Goshen (Middle) Mapleton canyon (Right) Lindon canyon </p>
  </div>
 </div>

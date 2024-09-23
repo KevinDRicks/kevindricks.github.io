@@ -6,12 +6,10 @@ author:
 
 # show_excerpts: true # set to true to show excerpts on the homepage
 
+
 minima:
   skin: classic
-  social_links:
-    - { platform: google_scholar,       user_url: "https://scholar.google.com/citations?		user=9KlgDVMAAAAJ&hl=en" }    
-    - { platform: x,       user_url: "https://x.com/kevindricks" }
-    - { platform: github,          user_url: "kevinricks.github.io" }
+
 
 
 url: http://http://kevinricks.github.io/
