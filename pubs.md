@@ -8,6 +8,7 @@ My latest publications can be found in my [Google Scholar page](https://scholar.
 
 
 ### Published
+**Ricks KD**, Raglin SS, & Kent AD (2025). Signature of plant nitrogen adaptation in the associated root-microbiome across genotype panel of Brachypodium distachyon. New Phytologist. [doi: 10.1111/nph.70684](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70684)  
 
 **Ricks KD**, Ricks NJ, & Yannarell AC (2023). Patterns of plant salinity adaptation depend on interactions with soil microbes. The American Naturalist. [doi.org/10.1086/725393](https://www.journals.uchicago.edu/doi/10.1086/725393)
 
