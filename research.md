@@ -23,6 +23,7 @@ With significant microbial impacts on plant fitness and phenotype, one focus of 
 Some of my current work continues in this area, investigating the specific molecular mechanisms that control these microbiomes and their selective drivers. The plant environment is highly selective for which microbes can colonize ([Ricks & Koide, 2019](https://link.springer.com/article/10.1007/s00442-019-04388-y)), with significant variation between plant species and genotypes. By linking plant microbiomes across a genotypic panel of duckweed with plant genomics and metabolomics, I aim to determine the specific molecular plant interactions that underpin variation in plant microbiome recruitment. Pairing these data with the experimentally derived microbiome effects on plant fitness will allow me to evaluate how selection on these molecular interactions may drive plant evolution. 
 <br>
 <br>
+
 ### Mutualism evolution in host microbiomes
 Microbiomes can impact their host fitness through the collection of microbial traits and molecular interactions. These traits, however, are not randomly distributed, but are the result of selection from both the environment and their host. Given interest in beneficial interactions across applied systems, a major throughline of my work aims to frame these microbial interactions in mutualism theory in understanding the selective drivers for beneficial microbiomes.
 <br>
@@ -39,6 +40,7 @@ For example, some mutualisms are predicted to emerge as an incidental byproduct 
 Many mutualistic traits can also be energetically expensive and may therefore only emerge with ensured reciprocal rewards from their partners. When experimentally evolving the model mutualistic bacteria rhizobia under drought, bacteria with traits that mediate drought stress only emerged through host selection (Ricks et al, In prep). While further genomic and experimental analyses have yielded evidence for selection on trehalose production pathways in bacteria that underlie these beneficial traits to the host, framing these interactions in mutualism theory provides the predictive framework for understanding and contextualizing these highly molecular interactions.
 <br>
 <br>
+
 ### Molecular genomics in microbial symbiosis
 <figure style="float: right; padding-left: 25px; width: 25%">
  <img src="/images/plates.jpg"/>
@@ -49,6 +51,7 @@ Many mutualistic traits can also be energetically expensive and may therefore on
 While much of our understanding of these microbial systems’ evolution is based on theory built from macroorganisms, the unique genomics of microbes may require a fundamental rethinking here. With largely haploid genomes, mobile genetic elements, and unclear species boundaries, one component of my work aims to better understand how these microorganism’s distinct biology integrates with our evolutionary models. One such area is the involvement of plasmids in microbial coevolution with their host plants. Many microbes form specialized interactions with eukaryotic hosts, from mutualists to pathogens. And while we might expect these traits to be essential components of the microbial genome, they’re often encoded on plasmids, with replication independent of the main bacterial chromosome. Using the legume-rhizobia system, I’m investigating potential evolutionary advantages in encoding symbiosis genes on the mobile elements as well as their impact on mutualism evolution. By sequencing a population of experimentally evolved rhizobia, I’m estimating plasmid movement rates and coevolution with the main replicon.
 <br>
 <br>
+
 ### Scaling microbial evolutionary dynamics to host communities:
 <figure style="float: left; padding-right: 25px; width: 25%">
  <img src="/images/duckweed.jpg"/>
