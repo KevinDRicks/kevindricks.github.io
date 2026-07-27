@@ -6,6 +6,11 @@ order: 3
 
 My latest publications can be found in my [Google Scholar page](https://scholar.google.com/citations?user=9KlgDVMAAAAJ&hl=en). Please let me know if you would like a PDF of any articles.
 
+### Preprints & Submitted Work
+**Ricks KD**, Schwarz CP, Blaszynski MM, Gonzalez D, Lau JA, Heath KD, & Yannarell AC. Mutualisms as engines for rapid adaptation: Rhizobium evolution facilitates plant drought resistance. [doi: 10.64898/2026.07.14.738479](https://www.biorxiv.org/content/10.64898/2026.07.14.738479v1)
+
+**Ricks KD**, Bhatt K, & Frederickson ME. Stress adaptation of free-living microbes generates novel benefits to plant hosts.  [doi: 10.64898/2026.06.01.729403](https://www.biorxiv.org/content/10.64898/2026.06.01.729403v1)
+
 
 ### Published
 **Ricks KD**, Raglin SS, & Kent AD (2025). Signature of plant nitrogen adaptation in the associated root-microbiome across genotype panel of Brachypodium distachyon. New Phytologist. [doi: 10.1111/nph.70684](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70684)  
