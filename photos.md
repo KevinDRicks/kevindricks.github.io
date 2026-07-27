@@ -4,7 +4,6 @@ title: Photos
 order: 4
 ---
 
-Following the secret lives of microbiome scientists, both in and out of the lab 🤫
 
 <div class="row">
  <div class="column">
