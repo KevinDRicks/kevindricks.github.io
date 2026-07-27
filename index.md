@@ -9,7 +9,8 @@ feature_text: |
 
  <br /> 
 
-I am an evolutionary ecologist broadly interested in understanding the evolution of host-microbe symbioses in response to global change. To this end, my work integrates these interactions into eco-evolutionary frameworks to better predict  the impacts of global changes. 
+I am an ecologist studying how microbial symbioses shape plant population and community responses to global change. Plants are colonized by microbial communities that alter plant fitness and phenotypes. While technological advances have allowed us to catalog the enormous diversity in these communities, the critical next step is linking this microbial diversity with actual host demographic outcomes. My research program bridges this gap, investigating how microbial eco-evolutionary dynamics shape plant responses to global change across populations, communities, and landscapes.
+
 
 I am currently a Postdoctoral Fellow with [Megan Frederickson](http://mutualism.ca/) in the Department of Ecology and Evolutionary Biology at the University of Toronto and I completed my PhD with [Anthony Yannarell](https://nres.illinois.edu/directory/acyann) at the University of Illinois. 
 
