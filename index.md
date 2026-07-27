@@ -13,8 +13,5 @@ I am an ecologist studying how microbial symbioses shape plant population and co
 
 I am currently a Postdoctoral Fellow with [Megan Frederickson](http://mutualism.ca/) in the Department of Ecology and Evolutionary Biology at the University of Toronto and I completed my PhD with [Anthony Yannarell](https://nres.illinois.edu/directory/acyann) at the University of Illinois. 
 
-<b>
-<b>
 
 
-See [here](cv.pdf) for my CV.
