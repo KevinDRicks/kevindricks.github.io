@@ -3,32 +3,18 @@ layout: page
 title: Research
 order: 2
 ---
-
-Global change threatens ecosystem health by exposing plants to significant stress. However, as plants are colonized by complex microbial communities that significantly impact host health, understanding the plant-microbe interaction is essential for predicting the effects of global change. And while technological advances have allowed us to examine these microbiomes at increasingly finer scales, the field has struggled to move beyond descriptive work. My research fills this gap by integrating these plant-microbe interactions into eco-evolutionary contexts, evaluating how plants and their microbial partners coevolve in the face of novel stressors. 
+My research leverages tools such as experimental evolution, genomics, functional biogeography, and high-throughput experimentation. While my work has spanned systems chosen for the questions they can answer, from grasslands to forest communities, over my training I have developed two experimentally tractable plant-microbe systems in my toolkit: legumes and rhizobia, and <i>Lemna</i> duckweeds and bacteria. The genetic tractability of the legume-rhizobia mutualism, in which bacteria exchange fixed nitrogen for plant photosynthate, lets me link microbial genetic variation directly to plant ecological outcomes. Conversely, duckweeds’ small size, clonal reproduction, and rapid generation time let me pair automated imaging with microbial manipulation to test how microbes affect plant demography, competition, and spatial dynamics at scales not feasible in larger plants. 
 <br>
 <br>
-I use a variety of experimental systems and tools to study these interactions, including amplicon and whole genome sequencing, experimental evolution, <i>in vivo</i> studies, macroecology, and modeling. Below I highlight some of the broad themes of my work.
-<br>
-<br>
-### Host interactions and evolution with their symbionts: 
-With significant microbial impacts on plant fitness and phenotype, one focus of my work is in understanding how plant evolution is shaped by interactions with their microbiome. Namely, do plants rely on their interactions with the microbiome to adapt to their environments. Understanding the role of microbes in plant adaptation may highlight specific plant genetic mechanisms as key targets for future manipulation. I've addressed these questions using several local adaptation experiments. For example, in my dissertation work I evaluated salinity adaptation using a genotypic panel of Bromus tectorum sourced from habitats with varying salinity. While plants from saline habitats should have been naturally well-adapted to high salinity, this adaptation was only observed when microbes were present ([Ricks et al., 2023](https://www.journals.uchicago.edu/doi/full/10.1086/725393)). In another experiment using a panel of Brachypodium distachyon genotypes, I similarly demonstrated that plants depended on the presence of soil microbes for adaptation to their home nitrogen environment. Here, microbiome sequencing revealed that plants were colonized by optimal nitrogen-cycling microbes specific to their home habitat ([Ricks et al., 2026](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70684)). These studies suggest that plants adapt to maximize microbial benefit, and that the joint plant-microbe interaction, rather than plant traits alone, underlies key adaptations.
-<div class="row">
- <div class="column">
-  <img src="/images/saline2.jpg" style="width:54%">
-  <img src="/images/canyon1.jpg" style="width:21.5%">
-  <img src="/images/canyon2.jpg" style="width:21.5%">
-  <p style="font-size:10pt;color:DimGrey"> Collection sites for <i>B. tectorum</i> across Utah (Left) Salt flats near Goshen (Middle) Mapleton canyon (Right) Lindon canyon </p>
- </div>
-</div>
-Some of my current work continues in this area, investigating the specific molecular mechanisms that control these microbiomes and their selective drivers. The plant environment is highly selective for which microbes can colonize ([Ricks & Koide, 2019](https://link.springer.com/article/10.1007/s00442-019-04388-y)), with significant variation between plant species and genotypes. By linking plant microbiomes across a genotypic panel of duckweed with plant genomics and metabolomics, I aim to determine the specific molecular plant interactions that underpin variation in plant microbiome recruitment. Pairing these data with the experimentally derived microbiome effects on plant fitness will allow me to evaluate how selection on these molecular interactions may drive plant evolution. 
+Below I highlight some of the broad themes of my work using these tools.
 <br>
 <br>
 
-### Mutualism evolution in host microbiomes
-Microbiomes can impact their host fitness through the collection of microbial traits and molecular interactions. These traits, however, are not randomly distributed, but are the result of selection from both the environment and their host. Given interest in beneficial interactions across applied systems, a major throughline of my work aims to frame these microbial interactions in mutualism theory in understanding the selective drivers for beneficial microbiomes.
+### Rapid microbial evolution as a driver of plant ecological dynamics
+As environments rapidly shift due to global change, plant adaptation often lags behind. However, their microbial partners possess the short generation times and large population sizes necessary to adapt rapidly to novel environments. A core facet of my research investigates how this rapid microbial evolution shapes plant ecological dynamics.
 <br>
-
-For example, some mutualisms are predicted to emerge as an incidental byproduct of a partner’s self-interested activities.  We evaluated whether a byproduct mutualism model could be used to understand the distribution of beneficial plant microbiomes by experimentally evolving soil microbiomes under various watering and plant treatments. We observed that microbiomes that evolved under drought, regardless of history with a plant, mediated plant drought tolerance. These results suggest that beneficial microbes may emerge as an incidental byproduct of microbial adaptation to the environment ([Ricks & Yannarell, 2023](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2023.0469)). My current work continues in this area, evaluating the specific molecular mechanisms that may underlie these byproduct traits and their selective drivers across the landscape. Integrating molecular interactions with their evolutionary drivers will further develop how theory can be applied to host-microbiomes.
+<br>
+For example, my work demonstrates that rapid stress adaptation in symbiotic microbes can buffer plant populations against abiotic stress. Using the legume-rhizobia system, I experimentally evolved the bacterial partner (Rhizobium leguminosarum) under variable water availability for over a year Pairing single-strain inoculations with whole-genome sequencing, I found that drought selected for microbial traits, such as osmoprotectant production, that directly mediated plant drought tolerance ([Ricks et al., Preprint]( https://www.biorxiv.org/content/10.64898/2026.07.14.738479v1)). This work shows that rapid microbial evolution can expand this mutualism beyond basic nutrient exchange, rescuing plants from stress through the introduction of novel traits.
 <br>
 <div class="row">
  <div class="column">
@@ -37,27 +23,59 @@ For example, some mutualisms are predicted to emerge as an incidental byproduct 
   <p style="font-size:10pt;color:DimGrey"> Evaluating the microbial impact on plant drought tolerance </p>
  </div>
 </div>
-Many mutualistic traits can also be energetically expensive and may therefore only emerge with ensured reciprocal rewards from their partners. When experimentally evolving the model mutualistic bacteria rhizobia under drought, bacteria with traits that mediate drought stress only emerged through host selection (Ricks et al, In prep). While further genomic and experimental analyses have yielded evidence for selection on trehalose production pathways in bacteria that underlie these beneficial traits to the host, framing these interactions in mutualism theory provides the predictive framework for understanding and contextualizing these highly molecular interactions.
+My work is additionally examining how these beneficial plant-microbe interactions can arise. One area of interest has been the emergence of microbial byproduct benefits. For example, during my graduate work, I experimentally passaged soil microbiomes under drought, with no plants, and found that drought tolerance emerged ([Ricks & Yannarell, 2023](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2023.0469)). During my postdoctoral work I isolated these mechanisms, showing that the specific traits driving bacterial local adaptation simultaneously conferred knock on benefits to the host in those same environments, even in the absence of coevolution ([Ricks et al., Preprint](https://www.biorxiv.org/content/10.64898/2026.06.01.729403v1)). Together, this body of work indicates that the traits underpinning microbial abiotic stress adaptation also shape plant fitness; predicting plant responses to global change therefore requires understanding how environmental perturbations drive microbial evolution, not just plant evolution.
+ 
 <br>
 <br>
 
-### Molecular genomics in microbial symbiosis
-<figure style="float: right; padding-left: 25px; width: 25%">
- <img src="/images/plates.jpg"/>
- <img src="/images/soil.jpg"/>
- <figcaption style="font-size:9pt;color:DimGrey"> Above: Isolates of the model microbe, <i>Rhizobium leguminosarum</i></figcaption>
- <figcaption style="font-size:9pt;color:DimGrey"> Below: Experimentally evolving populations of <i>Rhizobium leguminosarum</i> in soil</figcaption>
-</figure>
-While much of our understanding of these microbial systems’ evolution is based on theory built from macroorganisms, the unique genomics of microbes may require a fundamental rethinking here. With largely haploid genomes, mobile genetic elements, and unclear species boundaries, one component of my work aims to better understand how these microorganism’s distinct biology integrates with our evolutionary models. One such area is the involvement of plasmids in microbial coevolution with their host plants. Many microbes form specialized interactions with eukaryotic hosts, from mutualists to pathogens. And while we might expect these traits to be essential components of the microbial genome, they’re often encoded on plasmids, with replication independent of the main bacterial chromosome. Using the legume-rhizobia system, I’m investigating potential evolutionary advantages in encoding symbiosis genes on the mobile elements as well as their impact on mutualism evolution. By sequencing a population of experimentally evolved rhizobia, I’m estimating plasmid movement rates and coevolution with the main replicon.
-<br>
-<br>
-
-### Scaling microbial evolutionary dynamics to host communities:
 <figure style="float: left; padding-right: 25px; width: 25%">
  <img src="/images/duckweed.jpg"/>
  <figcaption style="font-size:9pt;color:DimGrey"> Duckweed community mesocosm, including <i>Spirodela polyrhiza</i>, <i>Lemna minor</i>, & <i>Landoltia punctata</i>  <br> <br> </figcaption>
 </figure>
-These host-microbial interactions do not exist or evolve in a vacuum, but rather in the complex milieu of host community interactions, landscapes, and ecosystem processes. In some of my current postdoctoral work, I'm investigating how many of the microbial eco-evolutionary processes I describe above can impact plant communities, including their competitive interactions, niche, and range dynamics as well as how these feedback to the evolution of the host-microbe system. I'm addressing these questions by leveraging duckweeds, small aquatic plants, across controlled  plant mesocosms in the laboratory. These mesocosms have been linked with [camera tracking software](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287739), facilitating high throughput analyses across replicate plant communities in assessing microbial impacts on plant community dynamics.
+My current work is scaling rapid microbial evolution to higher-order interactions, demonstrating that plant community composition itself drives microbial evolution, creating positive eco-evolutionary feedbacks that feed back into plant competitive dynamics. Namely, I experimentally evolved the bacterial pathogen <i>Pseudomonas syringae</i> across monocultures of three duckweed species and cross-inoculated 100 evolved strains into 2,000 mixed-species competition assays. Using a machine-learning pipeline to characterize individual species’ growth, we find that plant species selected for bacterial genotypes that ultimately conferred a competitive advantage against an invading species.
+<br>
+<br>
+Moving forward, my work in this area aims to predict how climate-driven microbial shifts shape global biodiversity. With global change reshaping species ranges, a plant’s capacity to colonize new habitats remains uncertain. While plant species are differentially impacted by their microbiomes, rapid microbial evolution and compositional shifts may significantly alter habitat suitability and competitive dynamics among migrating plants. The next steps will be: (1) assess selection on microbial traits under specific climate perturbations, and (2) investigate how the emergence of these microbial traits under climate change alters plant demography and competitive interactions. 
+
+
+
+### Symbiotic constraints on plant responses to global change
+While rapid microbial evolution can provide immediate stress relief, these benefits may come at a cost. My research shows that plant populations often outsource stress tolerance to their associated microbiomes with consequences for how they respond to global change.
+<br>
+<br>
+For example, in my dissertation, using a 100-genotype panel of <i>Bromus tectorum</i> collected across a natural salinity gradient, I showed this plant exhibited salt tolerance only when provided a microbial inoculum from saline habitats ([Ricks et al., 2023](https://www.journals.uchicago.edu/doi/full/10.1086/725393)). Building on this during my postdoc, we showed that plant control over microbial root colonization contributes to this microbially-mediated adaptation. Using a 40-genotype panel of <i>Brachypodium distachyon</i> spanning the species’ entire geographic range with root-microbiome sequencing,  we found that plants  optimally recruited nitrogen-cycling microbes adapted to their home environment. Moreover, this recruitment strongly correlated with nitrogen adaptation experiments in the greenhouse ([Ricks et al., 2026](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70684)).
+<br>
+<div class="row">
+ <div class="column">
+  <img src="/images/saline2.jpg" style="width:54%">
+  <img src="/images/canyon1.jpg" style="width:21.5%">
+  <img src="/images/canyon2.jpg" style="width:21.5%">
+  <p style="font-size:10pt;color:DimGrey"> <i>B. tectorum</i> collection sites: (Left) Salt flats near Goshen (Middle) Mapleton canyon (Right) Lindon canyon </p>
+ </div>
+</div>
+
+My current work investigates how these microbial dependencies shape modern range shifts. Climate change is driving poleward migration, but a plant dependent on its symbionts is fundamentally limited by the geographic distribution of those symbionts. We evaluated this constraint by building spatio-temporal occupancy models for ~6,000 legume species using GBIF occurrence data. Leveraging the repeated evolutionary loss of rhizobial symbiosis across the legume phylogeny, we found that non-symbiotic legumes have shifted their ranges poleward to track climate change significantly more than symbiotic legumes, which are constrained and often fail to establish outside historical distributions. While symbioses facilitate local stress tolerance, they can generate a “two-body problem” that restricts a plant’s ability to migrate.
+<br>
+<br>
+Moving forward, my research program will work to understand how limitations and constraints of these symbioses shape population-level responses . Specifically, my research will focus on: (1) quantifying the genetic and environmental drivers of plant-microbe coevolution, (2) determining the demographic and physiological consequences of interacting with mismatched partners, and (3) testing how microbial dependencies shape demographic expansion at range edges.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
