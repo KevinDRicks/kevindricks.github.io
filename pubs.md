@@ -11,6 +11,8 @@ My latest publications can be found in my [Google Scholar page](https://scholar.
 
 **Ricks KD**, Bhatt K, & Frederickson ME. Stress adaptation of free-living microbes generates novel benefits to plant hosts.  [doi: 10.64898/2026.06.01.729403](https://www.biorxiv.org/content/10.64898/2026.06.01.729403v1)
 
+Bedwell SL, Lakis IM, Megow AR, **Ricks KD**, Fields CJ, Lau JA, Whitaker RJ, & Heath KD. A continuum of ecology and evolution contributes to mutualism breakdown between legumes and rhizobia. [doi: 10.64898/2025.12.02.691918](https://www.biorxiv.org/content/10.64898/2025.12.02.691918v2)
+
 
 ### Published
 **Ricks KD**, Raglin SS, & Kent AD (2025). Signature of plant nitrogen adaptation in the associated root-microbiome across genotype panel of Brachypodium distachyon. New Phytologist. [doi: 10.1111/nph.70684](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70684)  
