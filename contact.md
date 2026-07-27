@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-order: 5
+order: 6
 ---
 
 If you have any questions about me, my research, or are interested in collaborating, feel free to reach out through email.
