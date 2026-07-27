@@ -8,9 +8,13 @@ If you have any questions about me, my research, or are interested in collaborat
 
 Email: kevin [dot] ricks [at] utoronto [dot] ca
 
+[GoogleScholar](https://scholar.google.com/citations?user=9KlgDVMAAAAJ&hl=en)
+
+[BlueSky](https://bsky.app/profile/kevinricks.bsky.social)
+
 [Twitter/X](https://x.com/kevindricks)
 
-[GoogleScholar](https://scholar.google.com/citations?user=9KlgDVMAAAAJ&hl=en)
+
 
 
 
