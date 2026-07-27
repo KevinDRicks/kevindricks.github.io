@@ -12,7 +12,7 @@ minima:
 
 
 
-url: http://http://kevinricks.github.io/
+url: "https://kevindricks.github.io"
 # Build settings
 theme: minima
 plugins:
