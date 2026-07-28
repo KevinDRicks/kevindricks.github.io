@@ -10,7 +10,7 @@ Below I highlight some of the broad themes of my work using these tools.
 <br>
 <br>
 
-### Rapid microbial evolution as a driver of plant ecological dynamics
+### Microbial evolution as a driver of plant ecological dynamics
 As environments rapidly shift due to global change, plant adaptation often lags behind. However, their microbial partners possess the short generation times and large population sizes necessary to adapt rapidly to novel environments. A core facet of my research investigates how this rapid microbial evolution shapes plant ecological dynamics.
 <br>
 <br>
